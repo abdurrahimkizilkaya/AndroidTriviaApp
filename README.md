@@ -6,6 +6,10 @@ This Trivia App uses Java by utilizing Volley library. You can also find usage o
 - Shared Preferences
 - Android Animations
 
+
+![plot](TriviaApp.PNG)
+
+
 ## Features
 
 This trivia app uses volley library for GET requests to fetch questions and answers from this awesome REST API endpoint provided here in the [Link] [endpoint]. Thanks to provider.
